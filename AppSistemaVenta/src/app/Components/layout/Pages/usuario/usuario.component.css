@@ -1,0 +1,63 @@
+
+table{
+    width: 100%;
+}
+
+.mat-form-field{
+    font-size: 14px;
+    width: 100%;
+}
+
+
+.custom-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  
+  .custom-table th {
+    background-color: #2196F3;
+    color: white;
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 2px solid #1565C0;
+    border-right: 2px solid #ffffff;
+    font-size: 15px;
+  }
+
+  .custom-table th.no-border {
+    border-right: none;
+  }
+  
+
+  .custom-table td {
+    padding: 10px 15px;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  
+  
+  .custom-table .mat-row:nth-child(odd) {
+    background-color: #f2f2f2;
+  }
+  
+  
+  .custom-edit-button {
+    color: #2196F3;
+  }
+  
+  
+  .custom-delete-button {
+    color: #E53935;
+  }
+  
+  
+  .custom-table .mat-no-data-row {
+    background-color: #eee;
+    color: #888;
+  }
+
+  .button-user {
+    background-color: #2196F3;
+    color: white;
+  }
+  
